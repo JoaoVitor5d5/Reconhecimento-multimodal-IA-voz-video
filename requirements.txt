@@ -1,0 +1,6 @@
+face_recognition
+opencv-python
+sounddevice
+scipy
+numpy
+resemblyzer
